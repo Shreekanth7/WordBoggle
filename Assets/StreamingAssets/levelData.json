@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "bugCount": 0,
+      "bugCount": 3,
       "wordCount": 2,
       "timeSec": 0,
       "totalScore": 0,
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "bugCount": 0,
+      "bugCount": 3,
       "wordCount": 3,
       "timeSec": 0,
       "totalScore": 0,
@@ -63,7 +63,7 @@
           "letter": "P"
         },
         {
-          "tileType": 0,
+          "tileType": 1,
           "letter": "L"
         },
         {
@@ -75,7 +75,7 @@
           "letter": "N"
         },
         {
-          "tileType": 0,
+          "tileType": 2,
           "letter": "R"
         },
         {
@@ -87,7 +87,7 @@
           "letter": "D"
         },
         {
-          "tileType": 0,
+          "tileType": 1,
           "letter": "E"
         },
         {
@@ -99,7 +99,7 @@
     {
       "bugCount": 0,
       "wordCount": 4,
-      "timeSec": 0,
+      "timeSec": 60,
       "totalScore": 0,
       "gridSize": {
         "x": 4,
@@ -107,15 +107,15 @@
       },
       "gridData": [
         {
-          "tileType": 0,
+          "tileType": 1,
           "letter": "B"
         },
         {
-          "tileType": 0,
+          "tileType": 1,
           "letter": "R"
         },
         {
-          "tileType": 0,
+          "tileType": 2,
           "letter": "E"
         },
         {
@@ -131,7 +131,7 @@
           "letter": "L"
         },
         {
-          "tileType": 0,
+          "tileType": 2,
           "letter": "S"
         },
         {
@@ -139,7 +139,7 @@
           "letter": "M"
         },
         {
-          "tileType": 0,
+          "tileType": 1,
           "letter": "O"
         },
         {
